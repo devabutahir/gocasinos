@@ -1,5 +1,22 @@
 "user strict";
 
+/*Information 
+	0.1 - Menu Header Bar
+	0.2 - Menu Top Fixed Bar
+	0.3 - Menu Mobile Bar
+	0.4 - Back To Top
+	0.5 - Preloader
+	0.6 - Counter
+	0.7 - Owl Carousel
+	0.8 - Popup Video
+	0.9 - Accordion
+	10.0 - Countdown
+	11.0 - Select
+	12.0 - Nice Select
+	13.0 - Wow
+	14.0 - Isotope
+*/
+
 $(document).ready(function () {
 	//menu header bar
 	$(".header-bar").on("click", function (e) {
