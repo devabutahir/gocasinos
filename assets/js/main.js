@@ -14,7 +14,7 @@
 	11.0 - Select
 	12.0 - Nice Select
 	13.0 - Wow
-	14.0 - Isotope
+	14.0 - Smooth Animation
 */
 
 $(document).ready(function () {
